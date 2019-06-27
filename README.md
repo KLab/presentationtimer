@@ -1,5 +1,5 @@
 # presentationtimer
-![sample](raw/images/window01.png)
+![sample](../../raw/images/window01.png)
 ## 使い方
 ### 起動方法
 ```
